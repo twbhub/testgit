@@ -4,6 +4,7 @@
 
 **开发环境: VS2022, opencv4.2.0-c++**
 
+项目视频地址: https://www.bilibili.com/video/BV1Ht4y1V7bd/?vd_source=939818502857687a4a334c7a40d2c98a
 
 
 ## 1.基本实现原理
